@@ -1,0 +1,14 @@
+C:\Users\Admin\Desktop\function\Leson_2\bin\Debug\net8.0\Leson_2.exe
+C:\Users\Admin\Desktop\function\Leson_2\bin\Debug\net8.0\Leson_2.deps.json
+C:\Users\Admin\Desktop\function\Leson_2\bin\Debug\net8.0\Leson_2.runtimeconfig.json
+C:\Users\Admin\Desktop\function\Leson_2\bin\Debug\net8.0\Leson_2.dll
+C:\Users\Admin\Desktop\function\Leson_2\bin\Debug\net8.0\Leson_2.pdb
+C:\Users\Admin\Desktop\function\Leson_2\obj\Debug\net8.0\Leson_2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\function\Leson_2\obj\Debug\net8.0\Leson_2.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\function\Leson_2\obj\Debug\net8.0\Leson_2.AssemblyInfo.cs
+C:\Users\Admin\Desktop\function\Leson_2\obj\Debug\net8.0\Leson_2.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\function\Leson_2\obj\Debug\net8.0\Leson_2.dll
+C:\Users\Admin\Desktop\function\Leson_2\obj\Debug\net8.0\refint\Leson_2.dll
+C:\Users\Admin\Desktop\function\Leson_2\obj\Debug\net8.0\Leson_2.pdb
+C:\Users\Admin\Desktop\function\Leson_2\obj\Debug\net8.0\Leson_2.genruntimeconfig.cache
+C:\Users\Admin\Desktop\function\Leson_2\obj\Debug\net8.0\ref\Leson_2.dll
