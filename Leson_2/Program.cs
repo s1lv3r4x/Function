@@ -1,7 +1,21 @@
 ﻿// Задайте массив заполненный случайными трёхзначными числами. 
 //Напишите программу, которая покажет количество чётных чисел в массиве.
-int[] array = new int[10];
+int [] array = new int[10];
 Random rand = new Random();
+
+int[] RandomArray()
+{
+    for (int i = 1; i < array.Length; i++)
+    {
+        array[i] = rand.Next(100, 999);
+        Console.Write($"[ {array[i] } ]");
+    }
+    return array;
+}
+
+
+
+
 void PrintArray(int[] arr)
 {
     int result = 0;
@@ -18,14 +32,4 @@ void PrintArray(int[] arr)
 
 }
 
-int[] RandomArray()
-{
-    for (int i = 1; i < array.Length; i++)
-    {
-        array[i] = rand.Next(100, 999);
-        Console.Write($"[ {array[i] } ]");
-    }
-    return array;
-}
 PrintArray(RandomArray());
-
